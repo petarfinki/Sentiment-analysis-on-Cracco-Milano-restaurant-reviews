@@ -30,7 +30,7 @@ Many people use Yelp to find a good restaurant. For this project, I decided to u
 
 ## References
 
-* [Crocco Restaurant](https://www.ristorantecracco.it/en/)
+* [Cracco Restaurant](https://www.ristorantecracco.it/en/)
 * [Discovering Ristorante Cracco in Milan’s Galleria](https://www.lacucinaitaliana.com/trends/restaurants-and-chefs/ristorante-cracco-galleria-milano?refresh_ce=)
 * [Restaurant recommender system based on sentiment analysis](https://www.sciencedirect.com/science/article/pii/S2666827021000578)
 * [Python | NLP analysis of Restaurant reviews](https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/) 
